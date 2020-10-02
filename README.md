@@ -1,5 +1,5 @@
 # covid19tweets
-Analysis of twitter tweets related to Covid-19
+Analysis of twitter tweets related to Covid-19  
 [Homepage on github](https://github.com/schilli/covid19tweets)
 
 ## Installations
